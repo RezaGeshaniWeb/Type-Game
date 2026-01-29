@@ -1,6 +1,6 @@
 # Type-Game
 
-[Online Demo]()
+[Online Demo](https://rezageshaniweb.github.io/Type-Game/)
          
 - Developed by Reza Geshani                  
 
